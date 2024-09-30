@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+table{
+    background-color: rgb(243, 243, 59);
+    width: 80%;
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+    
+}
+#row1{
+    background-color: rgb(56, 188, 217);
+}
+#row2{
+    background-color: aquamarine;
+}
