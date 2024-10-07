@@ -1,9 +1,9 @@
 *{
     margin:0px;
-    padding: 0px;
+    padding: 12px;
 }
 table{
-    background-color: rgb(243, 243, 59);
+    background-color: gold;
     width: 80%;
     border-style: dashed;
     border-color: black;
@@ -11,8 +11,8 @@ table{
     
 }
 #row1{
-    background-color: rgb(56, 188, 217);
+    background-color: goldenrod;
 }
 #row2{
-    background-color: aquamarine;
+    background-color:goldenrod;
 }
