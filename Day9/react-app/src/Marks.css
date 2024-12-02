@@ -1,0 +1,17 @@
+h1 {
+  background-color: aqua;
+  width: 50%;
+  text-align: center;
+  border-radius: 20px;
+
+}
+h2 {
+  background-color: cadetblue;
+  width: 70%;
+  border-radius: 20px;
+}
+#disp {
+  background-color: black;
+  border: 10px solid greenyellow;
+  border-radius: 10px;
+}

@@ -1,0 +1,13 @@
+#disp{
+  border: 10px solid red;
+  background-color: beige;
+  border-radius: 10px;
+  width: 50%;
+  text-align: center;
+}
+h1{
+  background-color:tomato;
+}
+h2{
+  background-color: blueviolet;
+}
