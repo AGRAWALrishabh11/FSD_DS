@@ -1,0 +1,17 @@
+.btn{
+    background-color: rgb(231, 221, 221);
+    margin: 10px;
+    height: 50px;
+    width: 100px;
+    border-radius: 25%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: hidden;
+    position: relative;
+    left: 35%;
+    
+}
+.header{
+    left: 49%;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
