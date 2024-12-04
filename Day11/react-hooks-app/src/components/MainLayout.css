@@ -1,0 +1,24 @@
+ul {
+    display: flex;
+    justify-content: center; /* Centers the list items horizontally */
+    background-color: #333; /* Dark gray background for a modern look */
+    gap: 15px; /* Reduces gap slightly for better spacing */
+    padding: 10px 20px; /* Adds padding for better aesthetics */
+    border-radius: 8px; /* Rounds the corners of the container */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+}
+li {
+    font-size: 18px; /* Slightly smaller text for compactness */
+    list-style-type: none; /* Removes bullet points */
+}
+li a {
+    text-decoration: none; /* Keeps links clean without underline */
+    color: #f5f9fa; /* Bright blue for a pop of color */
+    font-size: 22px; /* Balanced size for readability */
+    font-weight: bold; /* Adds emphasis to links */
+    padding: 5px 10px; 
+    transition: all 0.3s ease;
+}
+li a:hover {
+    color:rgb(41, 140, 228)
+}
